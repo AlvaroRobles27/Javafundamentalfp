@@ -30,7 +30,7 @@ public class Circle {
     }
 
     //behaviours, functions or methods
-    private float area(){
+    public float area(){
         return PI * radius * radius;
     }
     public float circumference(){
