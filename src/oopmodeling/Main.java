@@ -2,6 +2,8 @@ package oopmodeling;
 
 import javax.rmi.ssl.SslRMIClientSocketFactory;
 
+import oopmodeling.math.Circle;
+
 /**
  * @author Alvaro
  * @created 08/10/2026
